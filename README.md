@@ -5,11 +5,11 @@ I'm Jeremy, and I'm a data scientist.
  I work at &nbsp;<img src="./img/msft.svg" height="20" valign="middle" /> as a Cloud Solution Architect.
  I help companies harness the power of the cloud to gather deeper insights from their data.
  
- - 🎓 expertise with <img src="./img/spark.svg" height="24" alt="Apache Spark" />
- - ☁️ a decade of experience building solutions with Microsoft Azure
+ - 🎓 expertise with <img src="./img/spark.svg" height="24" alt="Apache Spark" /> performance tuning and problem solving
+ - ☁️ a decade of experience building solutions with Microsoft Azure &nbsp; <img src="./img/azure.svg" height="18" alt="Microsoft Azure" />
  - 🥼 built production-grade ML models with scikit-learn, R, and SparkML
  - 💻 proficient with R, Python, SQL, C#, and Scala
- - 💬 ask me about how your data science projects can scale
+ - 💬 ask me how your data science and analytics projects can scale with cloud computing
  
  ---
  
