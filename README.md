@@ -2,7 +2,7 @@
 
 I'm Jeremy, and I'm a data analyst.
 
- I work at &nbsp;<img src="./img/msft.svg" height="20" valign="middle" /> as a Data Analyst.
+ I work at &nbsp;<img src="./img/msft.svg" height="20" valign="middle" /> as a Data Scientist.
  I help our Azure engineering teams sort through massive volumes of virtual machine telemetry data and make better decisions about our cloud offerings
  
  - 🎓 expertise with <img src="./img/spark.svg" height="24" alt="Apache Spark" /> performance tuning and problem solving
